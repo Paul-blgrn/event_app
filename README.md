@@ -1,5 +1,6 @@
 ## Entity Relation Diagramm (ERD)
-![bdd](https://github.com/Paul-blgrn/event_app/assets/128799831/d6d80d72-288d-4dcf-8ec3-e1c6b2e3f785)
+
+![bdd](https://github.com/Paul-blgrn/event_app/assets/128799831/0cf6270f-684d-40ba-bb2e-fc0b73eae53a)
 
 
 ## The Project
