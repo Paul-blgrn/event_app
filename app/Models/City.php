@@ -9,6 +9,7 @@ class City extends Model
 {
     use HasFactory;
 
+    // city can have multiple locations
     public function locations() {
         return $this->hasMany(Location::class);
     }

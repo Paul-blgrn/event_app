@@ -25,3 +25,8 @@ it('show events', function () {
     $this->get('/events')
     ->assertStatus(200);
 });
+
+it('show comments', function () {
+    $this->get('/events/comments')
+    ->assertStatus(200);
+});
