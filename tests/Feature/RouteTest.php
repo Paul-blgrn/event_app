@@ -22,6 +22,6 @@ it('show cities', function () {
 });
 
 it('show events', function () {
-    $this->get('/evenements')
+    $this->get('/events')
     ->assertStatus(200);
 });
